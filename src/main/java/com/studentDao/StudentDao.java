@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import com.studentmodel.Student;
 public class StudentDao {
-
+//dd
 
    static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
    static final String DB_URL = "jdbc:mysql://localhost/studentdb";
