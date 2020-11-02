@@ -91,8 +91,8 @@ function deleteStudent(sid){
 		} 
 	}; 
 
-	// Converting JSON data to string 
-//	var data = JSON.stringify({ "name": name.value, "age": age.value,"branch": branch.value,"section": section.value }); 
+	// converting JSON data to string 
+	//	var data = JSON.stringify({ "name": name.value, "age": age.value,"branch": branch.value,"section": section.value }); 
 
 	// Sending data with the request 
 	xhr.send(); 
